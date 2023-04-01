@@ -51,28 +51,24 @@ let infobt = `
 ▢ *${chats.length - groupsIn.length}* Chats privados
 ▢ *${chats.length}* Total Chats
 
-*≡ OWNER*
-  *FG98*
+*≡ المــطـــوࢪ*
+  *@/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹*
 ▢ Instagram :
-  • https://instagram.com/fg98_ff
+  • https://instagram.com/lo9mane.lmalaki
 ▢ WhatsApp :
   • (escribe solo si es necesario) 
 ▢ GitHub :
-  • https://github.com/FG98F
-▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
+  • https://github.com/louk123
 ▢ YouTube : 
-  • https://youtube.com/fg98f
+  • https://youtube.com/@Al--malaki
   
  *≡ HELPERS*
   *CRISS*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
-▢ WhatsApp : wa.me/
+▢ Instagram : https://www.instagram.com/lo9mane.lmalaki
+▢ WhatsApp : wa.me/212661809542
   *ANDREA*
-▢ Instagram : https://
-▢ WhatsApp : wa.me/573125484672
+▢ Instagram : https://www.instagram.com/lo9mane.lmalaki
+▢ WhatsApp : wa.me/212661809542
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
