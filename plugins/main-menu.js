@@ -151,12 +151,12 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     
     let pp = './src/fg_logo.jpg'
     
-     /*conn.sendHydrated2(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff', pp, fgyt, 'YouTube', 'https://paypal.me/fg98f', 'PayPal', [
+     /*conn.sendHydrated2(m.chat, text.trim(), '▢ @/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/lo9mane.lmalaki', pp, fgyt, 'YouTube', 'https://paypal.me/fg98f', 'PayPal', [
       ['ꨄ︎ Apoyar', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
       ['⌬ لمجموعات', `${_p}gpdylux`]
     ], m)*/  
-    conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff', pp, [
+    conn.sendButton(m.chat, text.trim(), '▢ @/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/lo9mane.lmalaki', pp, [
       ['ꨄ︎ Apoyar', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
       ['⌬ لمجموعات', `${_p}gpdylux`]
